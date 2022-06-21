@@ -1,1 +1,4 @@
 # odin-recipes
+I have been following the Odin Project without many issues along the way. Everything has been easy to follow up until now. I plan to encounter issues and problem solving once things get a little more complex and I get my hands dirty with projects. I am currently working on creating a Github repository as we speak. This self-analysis will be included in there. I am about 41% done with The Odin Project and I am super excited to see what else is coming my way. I know it won't be easy, but at least i know it will be worth the ride. 
+
+On another thought, I like that you are able to look up any issues you are facing in your current curriculum and find answers all over the internet with such ease. Sometimes you do have to look into it before finding the right thread. 
